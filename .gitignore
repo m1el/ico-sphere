@@ -1,1 +1,9 @@
 /target
+*.obj
+*.blend
+*.mp4
+*.gif
+*.svg
+.DS_Store
+*.stl
+*.mtl
